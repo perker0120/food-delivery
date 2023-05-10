@@ -7,6 +7,11 @@
 ![image](https://github.com/perker0120/example-food-delivery/assets/38679524/b846f6d6-1da8-4734-ba72-0d1532c2ae46)
 
 ## 2.Saga (Pub / Sub)
+### 1) front의 OrderPlaced 이벤트 발생
+![image](https://github.com/perker0120/food-delivery/assets/38679524/bffdbac2-6e4d-4d0f-abaa-dda97b2929c0)
+
+### 2) store의 order copy policy UPDATE
+![image](https://github.com/perker0120/food-delivery/assets/38679524/870bc11a-73a8-4f10-8677-29e19f439797)
 
 ## 3. CQRS
 ### 1) Read Model Attributes
@@ -15,6 +20,17 @@
 ![image](https://github.com/perker0120/example-food-delivery/assets/38679524/496d13ee-2ce5-4db3-b1b1-b210e685ccc1)
 ### 3) Read Model : UPDATE
 ![image](https://github.com/perker0120/example-food-delivery/assets/38679524/46c0bed6-9e7e-4c0c-a583-d743baa24ff6)
+
+## 4. Compensation / Correlation
+![image](https://github.com/perker0120/food-delivery/assets/38679524/380bf980-ddf5-4578-a653-6c420c816644)
+
+![image](https://github.com/perker0120/food-delivery/assets/38679524/9378df30-81d6-4e56-a872-f315b2f3373b)
+
+![image](https://github.com/perker0120/food-delivery/assets/38679524/fabe836a-bd6e-4a25-943d-171082a476e4)
+
+![image](https://github.com/perker0120/food-delivery/assets/38679524/547795a3-f905-4bc4-b2c2-f78e2ac150bf)
+
+
 
 
 ## Model
