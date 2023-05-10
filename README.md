@@ -1,4 +1,21 @@
-# 
+![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+
+# 과제 - 음식배달
+
+## 1. EventStorming Model : Design Level
+
+![image](https://github.com/perker0120/example-food-delivery/assets/38679524/b846f6d6-1da8-4734-ba72-0d1532c2ae46)
+
+## 2.Saga (Pub / Sub)
+
+## 3. CQRS
+### 1) Read Model Attributes
+![image](https://github.com/perker0120/example-food-delivery/assets/38679524/3b002cfb-7d8e-443b-a9ed-6a512039254d)
+### 2) Read Model : CREATE
+![image](https://github.com/perker0120/example-food-delivery/assets/38679524/496d13ee-2ce5-4db3-b1b1-b210e685ccc1)
+### 3) Read Model : UPDATE
+![image](https://github.com/perker0120/example-food-delivery/assets/38679524/46c0bed6-9e7e-4c0c-a583-d743baa24ff6)
+
 
 ## Model
 www.msaez.io/#/storming/sh-food-delivery
